@@ -31,28 +31,28 @@ global.sig = '-'
 global.syt = '-'
 global.sgh = 'https://github.com/DhanzzEMDI'
 global.sgc = 'https://chat.whatsapp.com/KGYA0UHoM033LWJ5RomJeQ'
-global.swa = 'wa.me/6285786510891'
+global.swa = 'wa.me/6288220924312'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085786510891'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '085786510891'
-global.ppulsa2 = '085786510891'
+global.pdana = '082120090746'
+global.povo = '082120090746'
+global.pgopay = '082120090746'
+global.ppulsa = '082120090746'
+global.ppulsa2 = '082120090746'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282155441454'
-global.nomorown = '6285786510891'
-global.namebot = 'ZeeBotラ'
-global.nameown = '©Dhanzz-MD'
+global.nomorbot = '16103406077'
+global.nomorown = '6288220924312'
+global.namebot = 'NaRaaラ'
+global.nameown = '©NaRaa-MD'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285786510891', '©Dhanzz-MD', 'true']
+  ['6286288220924312', '©Dhanzz-MD', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,14 +96,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'ZeeBotラ | By ©Dhanzz-MD' //Main Watermark
-global.wm2 = '©Dhanzz-MD'
-global.wm3 = 'ZeeBotラ  | By ©Dhanzz-MD'
+global.wm = 'NaraBotラ | By ©Nara-MD' //Main Watermark
+global.wm2 = '©NaRa-MD'
+global.wm3 = 'NaRaラ  | By ©Nara-MD'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `ZeeBotラ  | ${global.nameown}`
-global.author = '©Dhanzz-MD' 
-global.packname = '©Dhanzz-MD'
+global.author = '©NaRa-MD' 
+global.packname = '©Naaraa-MD'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
