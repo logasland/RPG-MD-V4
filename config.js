@@ -52,7 +52,7 @@ global.nameown = '©NaRaa-MD'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6286288220924312', '©Dhanzz-MD', 'true']
+  ['6288220924312', '©NaRaa-MD', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
